@@ -6,6 +6,8 @@ Implement again from first principles the gradient-boosting tree classification 
 
 The same "from first principals" rules apply; please don't use SKLearn or any other implementation. Please provide examples in your README that will allow the TAs to run your model code and whatever tests you include. As usual, extra credit may be given for an "above and beyond" effort.
 
+As before, please clone this repo, work on your solution as a fork, and then open a pull request to submit your assignment. *A pull request is required to submit and your project will not be graded without a PR.*
+
 Put your README below. Answer the following questions.
 
 * What does the model you have implemented do and when should it be used?
